@@ -64,7 +64,7 @@ git config --global credential.helper store
 
 1. Go to Cloud9 terminal and clone the repository and create python environment
 
-![3](./assets/3.png)
+![3](./assets/3.PNG)
 
 2. Push the changes back up to Github using best practices. In the terminal, run:
 ```sh
