@@ -1,6 +1,6 @@
 # Source Code Management with Github
 
-The below markdown file consists of lab instructions and notes that will help you to complete the lab - Github and Cloud9 setup using Personal Access Token.
+The below markdown file consists of lab instructions and notes that will help you to complete the lab - Github and Cloud9 setup using Personal Access Token and SSH
 
 ## Group Information
 
