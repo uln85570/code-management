@@ -1,4 +1,4 @@
-# Source Code Management with Github steps
+# Source Code Management with Github
 
 The below markdown file consists of lab instructions and notes that will help you to complete the lab - Github and Cloud9 setup using Personal Access Token.
 
@@ -22,11 +22,13 @@ We both have worked alongside in every level to complete these labs. Below is ho
 
 • For Github and Cloud9 setup using SSH, we shared the vice versa - Mounika have created the python file and did required changes and pushed to github and Udaya have created the flask file and pushe dto github. This lab took only 20 minutes as we already done few steps in earlier lab.
 
+• Creating README and other files took us arround 1.30 hour for wrapping up everything
+
 • Through this lab we were able to transfer knowledge to each other by showing what the correct process is, how it is done, and passing on the skills through the fitst lab that we did. This helped us to do our 2nd lab using SSH.
 
 ## Project Introduction 
 
-This is all about Code Management 
+This is all about Code Management with Github. You will be using Github individually and collaboratively. We will set up our Cloud9 EC2 to be able to communicate with your Github account. You'll be able to copy code from a remote source (Github) and make changes to it on your personal virtual machine (Cloud9).
 
 ## Major Steps
 
@@ -61,6 +63,8 @@ git config --global credential.helper store
 ### Using Personal Access Token
 
 1. Go to Cloud9 terminal and clone the repository and create python environment
+
+![4](./assets/3.png)
 
 2. Push the changes back up to Github using best practices. In the terminal, run:
 ```sh
